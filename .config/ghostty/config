@@ -1,0 +1,21 @@
+# Font
+# font-family = "JetBrains Mono"
+font-family = "Zed Plex Mono"
+font-family-bold = "Zed Plex Mono Bold"
+font-family-italic = "Zed Plex Mono Italic"
+font-family-bold-italic = "Zed Plex Mono Bold Italic"
+font-size = 14
+font-feature = "+liga"  # Enable ligatures if available
+
+macos-titlebar-style = tabs
+theme = light:rose-pine-dawn,dark:rose-pine
+
+# Theme
+theme = "catppuccin-mocha"
+
+# Behaviour
+confirm-close-surface = false
+copy-on-select = true
+
+# Enable better path completion
+shell-integration-features = cursor,sudo,title
